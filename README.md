@@ -3,7 +3,6 @@
 ## Archivos
 - `converter.py`: programa principal.
 - `test_converter.py`: pruebas automatizadas con pytest.
-- `evidencia_pytest.txt`: evidencia de la ejecución de las pruebas.
 
 ## Ejecución
 1. Instalar pytest:

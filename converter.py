@@ -1,4 +1,4 @@
-TASA_DOLAR = 18.50  # Pesos mexicanos por dólar
+TASA_DOLAR = 17.30
 
 def celsius_a_fahrenheit(celsius):
     return (celsius * 9 / 5) + 32

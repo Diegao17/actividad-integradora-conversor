@@ -42,11 +42,11 @@ def test_millas_a_kilometros():
 
 @pytest.mark.unit
 def test_pesos_a_dolares():
-    resultado = pesos_a_dolares(185)
+    resultado = pesos_a_dolares(173)
     assert resultado == pytest.approx(10)
 
 
 @pytest.mark.unit
 def test_dolares_a_pesos():
     resultado = dolares_a_pesos(10)
-    assert resultado == pytest.approx(185)
+    assert resultado == pytest.approx(173)

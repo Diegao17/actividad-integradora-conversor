@@ -12,4 +12,4 @@
 3. Ejecutar el programa:
    `python converter.py`
 
-La tasa fija utilizada para la conversión de pesos mexicanos a dólares es de 18.50 MXN por USD.
+La tasa fija utilizada para la conversión de pesos mexicanos a dólares es de 17.30 MXN por USD.
